@@ -1,3 +1,3 @@
 # BrendanMallon.github.io
 
-[Personal website.](BrendanMallon.github.io)
+[Personal website.](https://brendanmallon.github.io/)
